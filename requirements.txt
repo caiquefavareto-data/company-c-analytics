@@ -1,0 +1,13 @@
+# Manipulacao e Analise de Dados
+pandas
+numpy
+
+# Visualizacao (Graficos para Insights)
+matplotlib
+seaborn
+
+# Dashboards (Para a fase 3 do projeto)
+streamlit
+
+# Testes Automatizados (O nosso multimetro)
+pytest
