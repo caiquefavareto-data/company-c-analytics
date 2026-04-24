@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as import
 
 # 1. Carrega os dados que geramos no passo anterior
 df = pd.read_csv('vendas_ficticias.csv')
