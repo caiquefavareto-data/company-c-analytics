@@ -38,3 +38,14 @@
 
 ```bash
 pytest
+
+📈 Actionable Insights (Sample Results)
+Top Performer: The city of Vaughan consistently leads in revenue share.
+
+Growth Areas: Identified maintenance services as a key driver in the Ontario region.
+
+Visuals: See grafico_faturamento_company_c_REFINADO.png for the static executive summary.
+
+Developed by: Caique Vinicius Tesaro Favareto
+
+Economics Student | Aspiring Data Scientist | Based in Brazil & Focused on the Canadian Market
